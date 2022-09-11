@@ -1,0 +1,23 @@
+Retrospective: (Sprint 3)
+
+Date: 03/03/2021
+Time: 16:00pm
+
+Attendees: 
+•	  Ryan Bhandal
+•	  Konstantinos Koukounakis
+•	  Junaid Mahmood
+•	  Kazim Manji
+•	  Mahlon Pope
+•	  Alex Scott
+
+Notes: 
+
+Demo
+- More complex words need to be demonstrated
+- Client would like a way to be able to test the alexa skills themself
+
+Feedback
+- Need to expand utterances, so skill can be invoked with a wider variety of terms
+- Client would like a way to be able to test the incorrect words list (have the spellings read out to them)
+- Client wants incorrect words list to remove a word once the user spells it correctly
