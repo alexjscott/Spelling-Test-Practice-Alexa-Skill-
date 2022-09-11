@@ -1,4 +1,5 @@
 # Spelling Test Practice (Alexa Skill)
+My second year, University group project .
 
 ## Overview of the Project
 Children around the world are practicing spellings for spelling tests. Parents around the world are trying to find time to help their children. This application will help pupils practice their spelling for the week.  
