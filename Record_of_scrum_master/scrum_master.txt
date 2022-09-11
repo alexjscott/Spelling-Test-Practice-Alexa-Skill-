@@ -1,7 +1,0 @@
-Scrum Master
-
-Sprint 0: (User: km484, Start:13/01/2021, Finish:26/01/2021)
-Sprint 1: (User: jm855, Start:27/01/2021, Finish:12/02/2021)
-Sprint 2: 
-Sprint 3: (User: as1192, Start:03/03/21, Finish:17/03/21)
-Sprint 4: (User: mp638, Start:18/03/21, Finish:01/04/21)
