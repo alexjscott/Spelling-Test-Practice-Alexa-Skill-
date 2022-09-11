@@ -1,8 +1,0 @@
-Group 4 presentation
-
-1) Student: as1192, Topic: Overview of the purpose of the project + Intro
-2) Student: jm855, Topic: Something non-technical that you learned during the project
-3) Student: rb537, Topic: How your group communicated and whether it worked well or not
-4) Student: km484, Topic: software architecture decisions
-5) Student: mp638, Topic: Social impacts
-6)
