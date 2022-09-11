@@ -1,7 +1,3 @@
-## My second year group project.
-
-
-
 # Spelling Test Practice (Alexa Skill)
 
 ## Overview of the Project
