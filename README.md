@@ -1,6 +1,6 @@
-# Scrum 04
+## My second year group project.
 
-CO2201 Semester 2 Group 04 Repository
+
 
 # Spelling Test Practice (Alexa Skill)
 
